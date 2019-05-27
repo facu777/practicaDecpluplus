@@ -1,0 +1,4 @@
+    Desde ahora voy a utilizar git hub por la razon de que prefiero guardar
+toda la teoría al lado de los archivos de practica asi puedo recurrir a una y 
+realizar la otra.
+            Capitulo 1: Una introduccion a algoritmos
